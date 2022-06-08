@@ -253,3 +253,4 @@ fabric.properties
 
 # others
 checkpoints/
+/coco_kpts/
