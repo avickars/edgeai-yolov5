@@ -7,4 +7,4 @@ test: ./coco_kpts/test-dev2017.txt  # 20288 of 40670 images, submit to https://c
 # number of classes
 nc: 1
 
-names: [ 'animal']
+names: ['animal']
